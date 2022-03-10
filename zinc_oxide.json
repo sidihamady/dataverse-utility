@@ -1,0 +1,242 @@
+{
+    "datasetVersion":
+    {
+        "termsOfUse": "CC0 Waiver",
+        "license": "CC0",
+        "protocol":"doi",
+        "authority":"10.502",
+        "identifier":"CC1/21D1",
+        "metadataBlocks":
+        {
+            "citation":
+            {
+                "fields":
+                [
+                    {
+                        "typeName": "title",
+                        "multiple": false,
+                        "value": "van der Pauw and Hall effect characterization of semiconductor oxides",
+                        "typeClass": "primitive"
+                    },
+                    {
+                        "typeName": "language",
+                        "multiple": true,
+                        "value":
+                        [
+                           "English"
+                        ],
+                        "typeClass": "controlledVocabulary"
+                    },
+                    {
+                        "typeName": "producer",
+                        "multiple": true,
+                        "value":
+                        [
+                           {
+                                "producerName":
+                                {
+                                    "typeName": "producerName",
+                                    "multiple": false,
+                                    "value": "Université de Lorraine",
+                                    "typeClass": "primitive"
+                                }
+                            }
+                        ],
+                        "typeClass": "compound"
+                    },
+                    {
+                        "typeName": "dsDescription",
+                        "multiple": true,
+                        "value":
+                        [
+                            {
+                                "dsDescriptionValue":
+                                {
+                                    "typeName": "dsDescriptionValue",
+                                    "multiple": false,
+                                    "value": "<class 'str'>",
+                                    "typeClass": "primitive"
+                                },
+                                "dsDescriptionDate":
+                                {
+                                    "typeName": "dsDescriptionDate",
+                                    "multiple": false,
+                                    "value": "2021-05-22",
+                                    "typeClass": "primitive"
+                                }
+                            }
+                        ],
+                        "typeClass": "compound"
+                    },
+                    {
+                        "typeName": "author",
+                        "multiple": true,
+                        "value":
+                        [
+                            {
+                                "authorAffiliation":
+                                {
+                                    "typeName": "authorAffiliation",
+                                    "multiple": false,
+                                    "value": "<class 'str'>",
+                                    "typeClass": "primitive"
+                                },
+                                "authorName":
+                                {
+                                    "typeName": "authorName",
+                                    "multiple": false,
+                                    "value": "Hamady, Sidi",
+                                    "typeClass": "primitive"
+                                },
+                                "authorIdentifierScheme":
+                                {
+                                    "typeName": "authorIdentifierScheme",
+                                    "multiple": false,
+                                    "value": "ORCID",
+                                    "typeClass": "controlledVocabulary"
+                                },
+                                "authorIdentifier":
+                                {
+                                    "typeName": "authorIdentifier",
+                                    "multiple": false,
+                                    "value": "0000-0002-0480-6381",
+                                    "typeClass": "primitive"
+                                }
+                            }
+                        ],
+                        "typeClass": "compound"
+                    },
+                    {
+                       "typeName":"subject",
+                       "multiple":true,
+                       "typeClass":"controlledVocabulary",
+                       "value":
+                       [
+                           "Physics"
+                       ]
+                    },
+                    {
+                       "typeName":"publication",
+                       "multiple":true,
+                       "typeClass":"compound",
+                       "value":
+                       [
+                           {
+                               "publicationCitation":
+                               {
+                                   "typeName":"publicationCitation",
+                                   "multiple":false,
+                                   "typeClass":"primitive",
+                                   "value":""
+                               }
+                           }
+                       ]
+                    },
+                    {
+                       "typeName":"notesText",
+                       "multiple":false,
+                       "typeClass":"primitive",
+                       "value":"<class 'str'>"
+                    },
+                    {
+                       "typeName":"keyword",
+                       "multiple":true,
+                       "typeClass":"compound",
+                       "value":
+                       [
+                           {
+                               "keywordValue":
+                               {
+                                   "typeName":"keywordValue",
+                                   "multiple":false,
+                                   "typeClass":"primitive",
+                                   "value":"Semiconductors"
+                               }
+                           },
+                           {
+                               "keywordValue":
+                               {
+                                   "typeName":"keywordValue",
+                                   "multiple":false,
+                                   "typeClass":"primitive",
+                                   "value":"Thin Films"
+                               }
+                           },
+                           {
+                               "keywordValue":
+                               {
+                                   "typeName":"keywordValue",
+                                   "multiple":false,
+                                   "typeClass":"primitive",
+                                   "value":"Electrical Characterization"
+                               }
+                           },
+                           {
+                               "keywordValue":
+                               {
+                                   "typeName":"keywordValue",
+                                   "multiple":false,
+                                   "typeClass":"primitive",
+                                   "value":"Optoelectronics"
+                               }
+                           },
+                           {
+                               "keywordValue":
+                               {
+                                   "typeName":"keywordValue",
+                                   "multiple":false,
+                                   "typeClass":"primitive",
+                                   "value":"Solar Cells"
+                               }
+                           }
+                       ]
+                   },
+                    {
+                        "typeName": "depositor",
+                        "multiple": false,
+                        "value": "Hamady, Sidi",
+                        "typeClass": "primitive"
+                    },
+                    {
+                        "typeName": "dateOfDeposit",
+                        "multiple": false,
+                        "value": "2021-05-22",
+                        "typeClass": "primitive"
+                    },
+                    {
+                       "typeName": "datasetContact",
+                       "multiple":true,
+                       "typeClass":"compound",
+                       "value":
+                       [
+                           {
+                               "datasetContactName":
+                               {
+                                   "typeName":"datasetContactName",
+                                   "multiple":false,
+                                   "typeClass":"primitive",
+                                   "value":"Hamady, Sidi"
+                               },
+                               "datasetContactAffiliation":
+                               {
+                                   "typeName":"datasetContactAffiliation",
+                                   "multiple":false,
+                                   "typeClass":"primitive",
+                                   "value":"<class 'str'>"
+                               },
+                               "datasetContactEmail":
+                               {
+                                   "typeName":"datasetContactEmail",
+                                   "multiple":false,
+                                   "typeClass":"primitive",
+                                   "value":"sidi.hamady@univ-lorraine.fr"
+                               }
+                           }
+                       ]
+                   }
+                ],
+                "displayName": "Electrical characterization of semiconductor oxides"
+            }
+        }
+    }
+}
